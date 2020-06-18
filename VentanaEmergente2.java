@@ -1,17 +1,14 @@
-
 import javax.swing.*;
 import java.awt.event.*;
 import java.awt.*;
 import java.util.*;
 
-class VentanaEmergente1 extends JFrame{
+class VentanaEmergente2 extends JFrame{
 
-	/*JTextField tf_nombreArchivo;
-	JButton aceptarNombreArchivo;*/
 	JLabel lbl1;
 	JPanel panel;
 
-	public VentanaEmergente1()
+	public VentanaEmergente2()
 	{
 
 
@@ -32,4 +29,5 @@ class VentanaEmergente1 extends JFrame{
 		this.setLocationRelativeTo(null);
 		this.add(panel);
 	}
+
 }
