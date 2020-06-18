@@ -23,6 +23,11 @@ class MiVentana extends JFrame implements ActionListener{
 		btnisma = new JButton("Isma");
 		btnisma.setBounds(300,100,100,30);
 
+		/*
+
+		suponer que estoy agregando nuevas características
+
+		*/
 
 
 		panel.add(lblTexto1);

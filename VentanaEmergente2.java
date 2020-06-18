@@ -10,6 +10,11 @@ class VentanaEmergente2 extends JFrame{
 
 	public VentanaEmergente2()
 	{
+		/*
+
+		suponer que estoy agregando nuevas características
+
+		*/
 
 
 		panel= new JPanel();
